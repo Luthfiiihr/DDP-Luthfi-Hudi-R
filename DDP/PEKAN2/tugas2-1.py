@@ -1,0 +1,6 @@
+print("===================================")
+print("Nama\t: Luthfi Hudi Rahman")
+print("Nim\t: 0110223105")
+print("Kelas\t: TI03")
+print("Alamat\t: Kp.Narogong RT06/02")
+print("===================================")
